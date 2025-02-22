@@ -1,0 +1,12 @@
+
+#vi ~/.m2/settings.xml   (build server : Jenkins build slave server for Java projects)
+
+<settings>
+  <servers>
+    <server>
+      <id>ram-deploy-id</id>
+      <username>ram-deploy-user</username>
+      <password>welcome@123</password>
+    </server>
+  </servers>
+</settings>
